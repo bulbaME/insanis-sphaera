@@ -101,8 +101,8 @@ int main() {
                 screen.setSurfaceSize({menu1TXR.size.X, 200});
                 creditsMenuSt[0] = 1;
                 creditsMenuSt[1] = 0;
-                creditsMenuSt[2] = screen.getSize().Y;
-                creditsMenuSPR.setPos({0, screen.getSize().Y});
+                creditsMenuSt[2] = menu1TXR.size.Y;
+                creditsMenuSPR.setPos({0, menu1TXR.size.Y});
                 break;
             case 2:
                 screen.setSurfaceSize({menu2TXR.size.X, 200});

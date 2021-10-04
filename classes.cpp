@@ -138,6 +138,7 @@ struct Game {
     }
 
     void restart() {
+        box.setState(0);
         for (int p : idsP) 
             mainScene.disableFigure(p);
         idsP.clear();
