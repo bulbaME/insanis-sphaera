@@ -149,11 +149,11 @@ int main() {
 
             if (keys::down(VK_RETURN)) {
                 switch (mainMenuSt) {
-                case 1:
+                case 2:
                     switchL(4);
                     gameSt = 1;
                     break;
-                case 2:
+                case 1:
                     switchL(2);
                     break;
                 case 3:

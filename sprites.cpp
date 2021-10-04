@@ -5,9 +5,9 @@ wchar_t menu0DT [8][22] = {
     L"   Insanis Sphaera   ",
     L"                     ",
     L"                     ",
-    L"       START         ",
-    L"                     ",
     L"       ABOUT         ",
+    L"                     ",
+    L"       START         ",
     L"       CREDITS       ",
     L"       EXIT          "
 };
@@ -39,8 +39,8 @@ wchar_t menu1DT [28][46] = {
     L"         Master - for awesome feedback       ",
     L"         Coffevarca - beta tester 2          ",
     L"          Dasha - for amazing alien          ",
-    L"                                             ",
-    L"                                             "
+    L"            Stin - beta tester 3             ",
+    L"             Vsi - release tester            "
 };
 
 wchar_t menu2DT [17][82] = {
