@@ -38,7 +38,7 @@ wchar_t menu1DT [28][46] = {
     L"          Flamingo - beta tester 1           ",
     L"         Master - for awesome feedback       ",
     L"         Coffevarca - beta tester 2          ",
-    L"                                             ",
+    L"          Dasha - for amazing alien          ",
     L"                                             ",
     L"                                             "
 };
